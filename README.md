@@ -62,16 +62,16 @@ https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_
 
 ### Overview Dashboard
 
-![Overview](Overview.png)
+![Overview-Dashboard](Overview-Dashboard.png)
 
 ### Product Dashboard
 
-![Product](product.png)
+![product-Dashboard](product-Dashboard.png)
 
 ### Customer Dashboard
 
-![Customer](customer.png)
+![customer-Dashboard](customer-Dashboard.png)
 
 ### Geographic Sales Dashboard
 
-![Map](map.png)
+![Geographic-Analysis](Geographic-Analysis.png)
