@@ -3,14 +3,14 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-Sales Performance Analytics Dashboard
+#Sales Performance Analytics Dashboard
 
- Project Overview
+ #Project Overview
 This project is an interactive Power BI dashboard developed using the AdventureWorks dataset. It provides comprehensive insights into sales performance, customer behavior, product performance, and geographic sales distribution to support business decision-making.
 
 ---
 
- Tools & Technologies
+ #Tools & Technologies
 - Power BI
 - Power Query
 - DAX
@@ -18,7 +18,7 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- Dashboard Features
+ #Dashboard Features
 - Revenue, Orders, Profit & Return Rate KPIs
 - Monthly Sales Trend Analysis
 - Product Performance Analysis
@@ -33,7 +33,7 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- Dashboard Pages
+ #Dashboard Pages
 - Overview Dashboard
 - Product Detail Dashboard
 - Customer Detail Dashboard
@@ -41,7 +41,7 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- Key Skills Demonstrated
+ #Key Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Modeling
@@ -53,14 +53,15 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- Dataset
+ #Dataset
 AdventureWorks Sales Dataset
 
 ---
 
- Author
+ #Author
 Nada Hesham Ibrahim
-linked in:
+
+#linked in:
 https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2
 
 ## 📷 Dashboard Preview
