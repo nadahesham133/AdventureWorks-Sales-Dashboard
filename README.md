@@ -75,7 +75,7 @@ This project is an interactive **Power BI Sales Analytics Dashboard** developed 
 
 The project follows a structured relational data model to support efficient reporting and DAX calculations.
 
-![Data Model](Data-Model.png)
+![Data-Model](Data-Model.png)
 
 ## 💡 Business Insights
 
