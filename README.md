@@ -59,6 +59,9 @@ linked in:
 https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2
 
 ## 📷 Dashboard Preview
+### Overview Dashboard
+
+![Overview-Dashboard](Overview-Dashboard.png)
 
 ### Overview Dashboard
 
