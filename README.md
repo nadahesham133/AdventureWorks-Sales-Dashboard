@@ -62,7 +62,7 @@ https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_
 
 ### Overview Dashboard
 
-![Overview-Dashboard](Overview-Dashboard.png)
+![Overview -Dashboard](Overview -Dashboard.png)
 
 ### Product Dashboard
 
