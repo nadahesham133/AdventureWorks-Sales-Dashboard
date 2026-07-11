@@ -15,23 +15,12 @@ This project is an interactive **Power BI Sales Analytics Dashboard** developed 
 
 ## 🔄 Project Workflow
 
-AdventureWorks Dataset
-          │
-          ▼
-Power Query (ETL)
-          │
-          ▼
-Data Model
-          │
-          ▼
-DAX Measures
-          │
-          ▼
-Interactive Dashboard
-          │
-          ▼
-Business Insights
----
+1. AdventureWorks Dataset
+2. Power Query (ETL)
+3. Data Modeling
+4. DAX Measures
+5. Interactive Dashboard
+6. Business Insights
 
 ## 🛠️ Tools & Technologies
 
