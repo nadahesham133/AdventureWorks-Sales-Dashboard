@@ -56,4 +56,4 @@ AdventureWorks Sales Dataset
  Author
 Nada Hesham Ibrahim
 linked in:
-https://www.linkedin.com/in/nada-hesham/
+https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2
