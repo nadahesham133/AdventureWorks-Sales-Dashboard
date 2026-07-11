@@ -1,4 +1,4 @@
- Sales Performance Analytics Dashboard
+Sales Performance Analytics Dashboard
 
  Project Overview
 This project is an interactive Power BI dashboard developed using the AdventureWorks dataset. It provides comprehensive insights into sales performance, customer behavior, product performance, and geographic sales distribution to support business decision-making.
@@ -54,6 +54,6 @@ AdventureWorks Sales Dataset
 ---
 
  Author
-**Nada Hesham Ibrahim**
-
-LinkedIn: *(ضيفي لينك لينكدإن هنا)*
+Nada Hesham Ibrahim
+linked in:
+https://www.linkedin.com/in/nada-hesham/
