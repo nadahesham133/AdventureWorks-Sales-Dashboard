@@ -78,3 +78,12 @@ https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_
 ### Geographic Sales Dashboard
 
 ![Geographic-Analysis](Geographic-Analysis.png)
+
+
+## 🔄 Project Workflow
+
+1. **Data Source:** AdventureWorks Dataset
+2. **Data Preparation:** Cleaned and transformed data using Power Query.
+3. **Data Modeling:** Built relationships between tables.
+4. **DAX Development:** Created measures for KPIs and business calculations.
+5. **Visualization:** Designed an interactive multi-page Power BI dashboard.
