@@ -15,12 +15,22 @@ This project is an interactive **Power BI Sales Analytics Dashboard** developed 
 
 ## 🔄 Project Workflow
 
-1. **Data Source:** AdventureWorks Dataset
-2. **Data Preparation:** Cleaned and transformed data using **Power Query**.
-3. **Data Modeling:** Built relationships between tables.
-4. **DAX Development:** Created measures for KPIs and business calculations.
-5. **Visualization:** Designed an interactive multi-page Power BI dashboard.
-
+AdventureWorks Dataset
+          │
+          ▼
+Power Query (ETL)
+          │
+          ▼
+Data Model
+          │
+          ▼
+DAX Measures
+          │
+          ▼
+Interactive Dashboard
+          │
+          ▼
+Business Insights
 ---
 
 ## 🛠️ Tools & Technologies
@@ -76,6 +86,29 @@ This project is an interactive **Power BI Sales Analytics Dashboard** developed 
 The project follows a structured relational data model to support efficient reporting and DAX calculations.
 
 ![Data-Model](Data-Model.png)
+
+## 🔄 Data Preparation (Power Query)
+
+Data was cleaned and transformed using **Power Query** before loading it into the data model.
+
+The ETL process included:
+
+- Removing errors and duplicate records
+- Filtering unnecessary rows
+- Changing data types
+- Replacing inconsistent values
+- Merging columns
+- Removing unnecessary columns
+- Formatting text fields
+- Creating a Calendar table for time intelligence
+
+### Power Query (ETL)
+
+![Power Query](Power-Query-ETL.png)
+
+### Calendar Query
+
+![Calendar Query](Calendar-Query.png)
 
 ## 💡 Business Insights
 
