@@ -1,16 +1,30 @@
-![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+# 📊 Sales Performance Analytics Dashboard
 
-##Sales Performance Analytics Dashboard
-
- ##Project Overview
-This project is an interactive Power BI dashboard developed using the AdventureWorks dataset. It provides comprehensive insights into sales performance, customer behavior, product performance, and geographic sales distribution to support business decision-making.
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
- ##Tools & Technologies
+## 📌 Project Overview
+
+This project is an interactive **Power BI Sales Analytics Dashboard** developed using the **AdventureWorks** dataset. It provides comprehensive insights into sales performance, customer behavior, product performance, and geographic sales distribution to support data-driven business decisions.
+
+---
+
+## 🔄 Project Workflow
+
+1. **Data Source:** AdventureWorks Dataset
+2. **Data Preparation:** Cleaned and transformed data using **Power Query**.
+3. **Data Modeling:** Built relationships between tables.
+4. **DAX Development:** Created measures for KPIs and business calculations.
+5. **Visualization:** Designed an interactive multi-page Power BI dashboard.
+
+---
+
+## 🛠️ Tools & Technologies
+
 - Power BI
 - Power Query
 - DAX
@@ -18,7 +32,8 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- ##Dashboard Features
+## 📈 Dashboard Features
+
 - Revenue, Orders, Profit & Return Rate KPIs
 - Monthly Sales Trend Analysis
 - Product Performance Analysis
@@ -33,63 +48,64 @@ This project is an interactive Power BI dashboard developed using the AdventureW
 
 ---
 
- ##Dashboard Pages
-- Overview Dashboard
-- Product Detail Dashboard
-- Customer Detail Dashboard
-- Geographic Sales Dashboard
+## 📷 Dashboard Preview
+
+### Executive Overview
+
+![Overview](Overview-Dashboard.png)
+
+### Sales Overview
+
+![Sales Overview](Overview2-Dashboard.png)
+
+### Product Analysis
+
+![Product](product-Dashboard.png)
+
+### Customer Analysis
+
+![Customer](customer-Dashboard.png)
+
+### Geographic Analysis
+
+![Map](Geographic-Analysis.png)
 
 ---
 
- ##Key Skills Demonstrated
+## 💡 Business Insights
+
+- Identified top-performing products based on revenue and order volume.
+- Analyzed customer purchasing behavior and customer segmentation.
+- Evaluated monthly sales performance trends.
+- Compared sales performance across different geographic regions.
+- Monitored key business KPIs including Revenue, Profit, Orders, and Return Rate.
+
+---
+
+## 🎯 Key Skills Demonstrated
+
 - Data Cleaning
 - Data Transformation
 - Data Modeling
+- Power Query
 - DAX Measures
+- KPI Development
 - Dashboard Design
 - Business Intelligence
 - Data Visualization
-- KPI Development
 
 ---
 
- ##Dataset
+## 📂 Dataset
+
 AdventureWorks Sales Dataset
 
 ---
 
- ##Author
-Nada Hesham Ibrahim
+## 👩‍💻 Author
 
-#linked in:
-https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2
+**Nada Hesham Ibrahim**
 
-## 📷 Dashboard Preview
-### Overview Dashboard
+### LinkedIn
 
-![Overview-Dashboard](Overview-Dashboard.png)
-
-### Overview Dashboard
-
-![Overview2-Dashboard](Overview2-Dashboard.png)
-
-### Product Dashboard
-
-![product-Dashboard](product-Dashboard.png)
-
-### Customer Dashboard
-
-![customer-Dashboard](customer-Dashboard.png)
-
-### Geographic Sales Dashboard
-
-![Geographic-Analysis](Geographic-Analysis.png)
-
-
-## 🔄 Project Workflow
-
-1. **Data Source:** AdventureWorks Dataset
-2. **Data Preparation:** Cleaned and transformed data using Power Query.
-3. **Data Modeling:** Built relationships between tables.
-4. **DAX Development:** Created measures for KPIs and business calculations.
-5. **Visualization:** Designed an interactive multi-page Power BI dashboard.
+[View my LinkedIn Profile](https://www.linkedin.com/in/nada-hesham-05209424a/)
