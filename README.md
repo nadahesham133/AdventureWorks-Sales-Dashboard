@@ -1,3 +1,8 @@
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 Sales Performance Analytics Dashboard
 
  Project Overview
