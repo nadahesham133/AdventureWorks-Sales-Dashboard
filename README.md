@@ -57,3 +57,21 @@ AdventureWorks Sales Dataset
 Nada Hesham Ibrahim
 linked in:
 https://www.linkedin.com/in/nada-hesham-05209424a/?trk=li_LOL_DA_global_careers_jobsgtm_otwGeneral_res_Sep2023_dav2
+
+## 📷 Dashboard Preview
+
+### Overview Dashboard
+
+![Overview](Overview.png)
+
+### Product Dashboard
+
+![Product](product.png)
+
+### Customer Dashboard
+
+![Customer](customer.png)
+
+### Geographic Sales Dashboard
+
+![Map](map.png)
